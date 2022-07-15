@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ChernyshArtem
+- 👀 I’m interested in Software engineering
+- 🌱 I’m currently learning Full Stack Web Development
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me - temasb138@gmail.com
